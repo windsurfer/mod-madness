@@ -1,0 +1,24 @@
+{ 
+    "Users": {
+        //Nin
+        "54688257": {
+        "Group": "SuperAdmin"
+    },
+        //j.
+        "8086089": {
+        "Group": "SuperAdmin"
+    },
+        //Wooza
+        "57727861": {
+        "Group": "SuperAdmin"
+    }
+   
+   },
+   "Groups": {
+       "SuperAdmin": {
+        "IsBlacklist": true,
+        "Immunity": 100,
+        "Commands": [ "" ]
+       },
+	  }
+}
