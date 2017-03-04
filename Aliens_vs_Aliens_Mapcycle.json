@@ -1,7 +1,8 @@
 {
   "maps":[
   { "mods": [ "32F3A470" ], 			    "map": "at_eclipse_redux", 		 "rounds":1 },
-  { "mods": [ "" ], 			 			"map": "ns2_veil", 		 		 "rounds":1 },
+  { "mods": [ "" ], 			 			"map": "ns2_docking", 		 	 "rounds":1 },
+  { "mods": [ "" ], 			 			"map": "ns2_tram",  		 	 "rounds":1 },
   { "mods": [ "" ], 			   			"map": "ns2_summit", 		 	 "rounds":1 },
   ],
   "mode":"order",
