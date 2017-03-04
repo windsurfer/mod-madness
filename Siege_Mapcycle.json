@@ -1,0 +1,14 @@
+{ 
+    "maps": [
+        //{ "map": "sg_basic", 	 	 "chance": 0.0, "min": 0, "max": 50 }	
+		{ "map": "sg_trimsiege", 	 "chance": 1.0, "min": 0, "max": 50 }		
+		
+    ],
+    "time": 35,
+    "mode": "order",
+    "mods": [
+	"706d242",  //Shine Administration
+	"334982D2", //NS2+
+	"281236AE" //Siege+
+	//"15BE2873" //Wooza's Potpourri
+	] }

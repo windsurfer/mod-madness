@@ -1,0 +1,21 @@
+{
+  "maps":[
+//-------------------------------------------------------------------------------------------------------------------------------------------------------
+//											Mod Madness Tournament Maps
+//-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   {"mods": [ "28eb0f83" ],  		 				  "map": "ns2_summit",			"rounds": "1"},
+   {"mods": [ "28eb0f83" ],  		 				  "map": "ns2_veil",			"rounds": "1"},
+   {"mods": [ "28eb0f83", "32459178" ],  		  	  "map": "ns2_eclipse_redux"	"rounds": "1"},
+   {"mods": [ "28eb0f83", "31861933" ], 			  "map": "ns2_epic"				"rounds": "1"}		
+
+	],
+  "time": 20,
+  "mods": [ "706d242",  //Shine Administration
+			"302b10bf", //TremNS2 Mod  
+			"314b382e", //Egg Spawning Rebalance
+			"aa4305e",  //Buy Menu Hotkeys
+			"30b9244f", //Third Person Aliens
+			"32DFC3D8" //Fewer Build Restrictions
+			]
+}

@@ -1,0 +1,27 @@
+{ 
+    "maps": [
+		{"mods": [ "cb225ba"],  "map": "ns2_sws_metro",				"chance": 1,    "min": 0, "max": 50 },
+		{"mods": [ "1136E3AC"], "map": "ns2_sws_ffa_tram",			"chance": 1,    "min": 0, "max": 10 },
+		{"mods": [ "112F2A87"], "map": "ns2_sws_ffa_biodome",		"chance": 1, 	"min": 0, "max": 14 },
+		{"mods": [ "cb11261"],  "map": "ns2_sws_refinery",			"chance": 1,  	"min": 0, "max": 10 },
+		{"mods": [ "D2BC6F4"],  "map": "ns2_sws_sphere",			"chance": 1, 	"min": 0, "max": 50 },
+		{"mods": [ "D12B1E6"],  "map": "ns2_sws_2gorge",			"chance": 1, 	"min": 0, "max": 50 },
+		{"mods": [ "D1D175F"],  "map": "ns2_sws_ikea",				"chance": 0, 	"min": 0, "max": 50 },
+		{"mods": [ "1c8eea02"], "map": "ns2_sws_eden_fixed",		"chance": 1,    "min": 0, "max": 50 },
+		{"mods": [ "D574214"],  "map": "ns2_sws_gorgasm",			"chance": 1, 	"min": 0, "max": 50 },
+		{"mods": [ "d601408"],  "map": "ns2_sws_xpress",			"chance": 1		"min": 0, "max": 50 },
+//		{"mods": [ "103AFD31"], "map": "ns2_sws_rr",				"chance": 1, 	"min": 0, "max": 50}, Unfinished
+		{"mods": [ "D2E4E28"],  "map": "ns2_sws_fissure",			"chance": 1, 	"min": 0, "max": 50 }
+
+		
+		
+    ],
+    "time": 20,
+    "mode": "order",
+    "mods": [
+	"706d242",  //Shine Administration
+	"2F1F5C5D"	//Skulks With Shotguns
+	] }
+
+	
+	

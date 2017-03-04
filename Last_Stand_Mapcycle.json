@@ -1,0 +1,19 @@
+{
+  "maps":[
+   {"mods": ["2655cd48",  "25e20012"], "map":"ns2_ls_traction",			 	 "rounds":9},
+   {"mods": ["25e20012"],		  	   "map":"ns2_ls_pad",					 "rounds":9},
+   {"mods": ["261FB86D",  "25e20012"], "map":"ns2_ls_hera",					 "rounds":9},
+   {"mods": ["261A4B61", "25e20012"],  "map":"ns2_ls_storm",			 	 "rounds":9},
+   {"mods": ["85E539B",  "25e20012"],  "map":"ns2_ls_hellevator",		  	 "rounds":9},
+// {"mods": ["25E6405A", "25e20012"],  "map":"ns2_ls_descent",			  	 "rounds":9},
+// {"mods": ["25E6537D", "25e20012"],  "map":"ns2_ls_rockdown",			   	 "rounds":9},
+// {"mods": ["261A4B61", "25e20012"],  "map":"ns2_ls_eclipse",			   	 "rounds":9},
+// {"mods": ["25E6537D", "25e20012"],  "map":"ns2_ls_rockdown",			 	 "rounds":9},
+// {"mods": ["25E64DC3", "25e20012"],  "map":"ns2_ls_hangar",			  	 "rounds":9},
+// {"mods": ["261A4B61", "25e20012"],  "map":"ns2_ls_frost",			 	 "rounds":9},
+// {"mods": ["261A4B61", "25e20012"],  "map":"ns2_ls_troopers",			     "rounds":9}
+    ],
+  "mode":"random",
+  "mods":["706d242"],
+  "time":20
+}

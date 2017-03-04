@@ -1,0 +1,15 @@
+{
+  "maps":[
+  { "mods": [ "32F3A470" ], 			    "map": "at_eclipse_redux", 		 "rounds":1 },
+  { "mods": [ "" ], 			 			"map": "ns2_veil", 		 		 "rounds":1 },
+  { "mods": [ "" ], 			   			"map": "ns2_summit", 		 	 "rounds":1 },
+  ],
+  "mode":"order",
+  "time":30,
+  "mods": [
+	"706d242",  //Shine Adminisration
+	"30BF2431", //Creepier Atmosphere
+	"334982D2", //NS2+
+	"326b9365"  //Any Team
+	]
+}
